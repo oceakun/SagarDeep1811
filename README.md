@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sagar
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on projects
-- 📫 You can reach me via mail. My email-id is...weiredtimes@protonmail.com
+- 👀 I’m interested in MERN Stack
+- 🌱 I’m currently learning Cloud Computing
+- 💞️ I’m looking to collaborate on web application development projects
