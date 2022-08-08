@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sagar
-- 👀 I’m interested in MERN Stack
-- 🌱 I’m currently learning Cloud Computing
+- 👀 I’m interested in ML
+- 🌱 I’m currently learning Cloud Computing and MERN Stack
 - 💞️ I’m looking to collaborate on web application development projects
